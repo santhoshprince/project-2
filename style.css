@@ -1,0 +1,103 @@
+.header{
+    background-image: url(".//images/banner.jpg");
+    background-position: center;
+    background-position: center;
+    background-size: cover;
+    height: 505px;
+}
+.para{
+    color: aliceblue;
+    margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav-item a{
+    color: aliceblue;
+    margin-top: 30px;
+    padding-left: 15px;
+}
+ .nav-item a:hover{
+    color: chocolate;
+}
+.content{
+    margin-top: 50px;
+}
+.cont img{
+    border-style: solid;
+    color: orangered;
+}
+.cont-one h1{
+    font-family: system-ui;
+    color: darkcyan;
+}
+.cont-one p{
+    color: cadetblue;
+}
+.pro-bar{
+    margin-top: 50px;
+}
+.bar h4{
+    line-height: 2.8;
+}
+.works-cont{
+    background: #2e3e4e;
+    margin-top: 50px;
+    text-align: center;
+}
+.works-cont h1 {
+    color: brown;
+}
+    .works-cont p {
+        color: azure;
+    }
+   
+
+.response-imge{
+    margin-top: 28px;
+    margin-left: 183px;
+    padding-right: 183px;
+    
+}
+.col-sm-3{
+    margin-top: 10px;
+}
+.service-cont{
+    text-align: center;
+    margin-top: 50px;
+}
+.service-cont h1{
+    COLOR: cadetblue;
+}
+.service-cont p{
+    color: darkgray;
+}
+.contact-page{
+   text-align: center;
+   background-color: #2e3e4e; 
+   margin-top: 50px;
+
+}
+.contact-page h1{
+    color: brown;
+    
+}
+.contact-page p{
+    color: white ;
+    
+}
+.fa{
+    margin: 19px;
+    color: white;
+}
+.fa:hover{
+    color: chocolate;
+
+
+}
+.bord-style{
+    border-bottom-style: solid;
+    border-bottom-color: bisque;
+    border-bottom-width: 1px;
+}
+.footer{
+    margin-top: 50px;
+}
